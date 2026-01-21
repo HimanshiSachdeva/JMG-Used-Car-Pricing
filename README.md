@@ -35,7 +35,7 @@ The **Random Forest Regressor** model outperformed the linear regression model, 
 - **MIS710A1_Sachdeva_224850909_Python.pdf**: A PDF version of the Jupyter notebook.
 - **JMG_data.csv**: The dataset used for model development.
 - **JMG_comp.csv**: A competition dataset (used to apply the trained model).
-- **JMG_metadata.docx**: Metadata describing the dataset.
+- **JMG_metadata.pdf**: Metadata describing the dataset.
 
 ## Conclusion
 
